@@ -2,14 +2,6 @@
 
   - **[WEBSITE TEST](https://www.swisstronik.com/testnet2/dashboard)** 
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0xbC0af0474D3D974b3baD42e669762C633b8Ad7E7
-```
-
 ## SETUP
 
 ### 1. Fork Repository
@@ -74,8 +66,3 @@ npm run transfer
 - Open the `tx-hash.txt` (location in utils folder)
 - Copy the address and paste the tx hash link into Testnet Dashboard
 - push this project to your github and paste your repository link in testnet dashboard
-
-# Credited By Layer Airdrop
-[Telegram Channel](https://t.me/layerairdrop)
-
-[Telegram Group](https://t.me/layerairdropdiskusi)
