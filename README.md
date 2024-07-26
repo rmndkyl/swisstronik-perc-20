@@ -1,6 +1,6 @@
 # Swisstronik Tesnet Techinal Task 4 (Mint a PERC20 Token)
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
+  - **[WEBSITE TEST](https://www.swisstronik.com/testnet2/dashboard)** 
 
 Feel free donate to my EVM address
 
@@ -10,15 +10,20 @@ EVM :
 0xbC0af0474D3D974b3baD42e669762C633b8Ad7E7
 ```
 
-## Steps
+## SETUP
 
 ### 1. Fork Repository
 
-1. On the Right-Side Corner you can see `Fork` and Forked this Repository into your Github.
+1. **On the Right-Side Corner you can see `Fork` and Forked this Repository into your Github**.
+![image](https://github.com/user-attachments/assets/efaa9471-9ea6-46e9-9eda-2e837792b082)
 
-2. 
+2. **After Forked, Open Codespaces and direct into Terminal**.
+![image](https://github.com/user-attachments/assets/e2139d32-ab86-4b16-be49-c6f85b0f91d5)
+![image](https://github.com/user-attachments/assets/72508f17-cbf5-43e8-b2cb-60334c87542a)
 
-### 2. Install Dependency
+3. **Then follow the guides below.**
+
+### 2. Install Dependencies
 
 ```bash
 npm install
@@ -26,13 +31,13 @@ npm install
 
 ### 3. Set .env File
 
-create .env file in root project
+create `.env` file in root project
 
 ```bash
 PRIVATE_KEY="your private key"
 ```
 
-### 4. Update Smart Contract (Skipp if you won't modify Token name)
+### 4. Update Smart Contract (Skip if you won't modify Token Name)
 
 - Open contracts folder
 - Open PERC20Sample.sol file
@@ -64,15 +69,13 @@ npm run transfer
 
 ### 8. Finsihed
 
-- Open the deployed-adddress.ts (location in utils folder)
-- Copy the address and paste the address into testnet dashboard
-- Open the tx-hash.txt (location in utils folder)
-- Copy the address and paste the tx hash link into testnet dashboard
+- Open the `deployed-address.ts` (location in utils folder)
+- Copy the address and paste the address into [Testnet Dashboard](https://www.swisstronik.com/testnet2/dashboard)
+- Open the `tx-hash.txt` (location in utils folder)
+- Copy the address and paste the tx hash link into Testnet Dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+# Credited By Layer Airdrop
+[Telegram Channel](https://t.me/layerairdrop)
 
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
+[Telegram Group](https://t.me/layerairdropdiskusi)
